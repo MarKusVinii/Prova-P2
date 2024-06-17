@@ -1,0 +1,67 @@
+body {
+
+    font-family: 'Times New Roman', Times;
+
+    font-size: 20px;
+
+    margin: 0;
+
+    padding: 0;
+
+}
+
+nav ul {
+
+    background-color: #22285a;
+
+    color: #fff;
+
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 30px;
+
+}
+
+nav ul li {
+
+    display: inline;
+
+}
+
+nav ul li a {
+
+    color: #fff;
+
+    text-decoration: none;
+
+}
+
+#submit {
+
+    background-color: #22285a;
+
+    color: #fff;
+
+}
+
+.FundoBranco {
+
+    background-color: #f4efef;
+
+    margin: 0;
+
+    padding: 10px;
+
+}
+
+.FundoCinza {
+
+    background-color: #b6b6b6;
+
+    margin: 0;
+
+    padding: 10px;
+
+}
